@@ -1,0 +1,16 @@
+
+old:
+AT Key app 绑定接口 https://api.caijiyun.cn/api/1/medicine_box/devices/at_send
+吃药时间安排接口 https://api.caijiyun.cn/api/5/medicine_box/medicine_boxs/get_setting
+获取时间接口 https://api.caijiyun.cn/api/1/medicine_box/medicine_boxs/get_time
+上传吃药接口 https://api.caijiyun.cn/api/1/medicine_box/medicine_boxs
+获取token https://caiyiyun.cn/oauth/token
+刷新token  https://caiyiyun.cn/oauth/token 
+
+
+need change :
+获取token https://ygj.caijiyun.cn/oauth/token
+刷新token https://ygj.caijiyun.cn/oauth/token
+获取当前时间 https://ygj.caijiyun.cn/v1/devices/get_time
+获取服药设定 https://ygj.caijiyun.cn/v1/devices/get_setting
+上传服药记录 https://ygj.caijiyun.cn/v1/devices/medicine
